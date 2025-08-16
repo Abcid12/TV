@@ -3,6 +3,6 @@
     "description": "TEST French Repository",
     "manifestVersion": 1,
     "pluginLists": [
-        "https://raw.githubusercontent.com/Abcid12/TV/refs/heads/main/plugins.json"
+        "https://raw.githubusercontent.com/Abcid12/TV/refs/heads/build/plugins.json"
     ]
 }
