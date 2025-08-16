@@ -1,6 +1,6 @@
 {
-    "name": "French Repo",
-    "description": "zzikozz French Repository",
+    "name": "TEST French Repo",
+    "description": "TEST French Repository",
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/Abcid12/TV/refs/heads/main/repo.json"
