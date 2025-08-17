@@ -1,6 +1,7 @@
 {
     "name": "TEST French Repo",
     "description": "TEST French Repository",
+    "icon": "https://ibb.co/608NmnK7",
     "manifestVersion": 1,
     "pluginLists": [
         "https://raw.githubusercontent.com/Abcid12/TV/refs/heads/builds/plugins.json"
